@@ -1,0 +1,24 @@
+﻿﻿<div class="modal fade" tabindex="-1" id="alertModal" data-bs-backdrop="static" data-bs-keyboard="false" aria-labelledby="staticBackdropLabel" aria-hidden="true" style="z-index:9999;">
+    <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title text-success" ng-if="alert.item.status == 200">Dialog</h5>
+                <h5 class="modal-title text-danger" ng-if="alert.item.status > 200">Dialog <span class="badge bg-danger">{{alert.item.status}}</span></h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body" ng-class="alert.item.status > 200?'text-danger':'text-success'">
+                <p ng-repeat="sc in alert.item.data.statusTexts">
+                    {{$index+1}}- {{sc}}
+                </p>
+                <p ng-repeat="sc in alert.item.data.errors">
+                    {{$index+1}}- {{sc}}
+                </p>
+
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-success" data-bs-dismiss="modal" ng-if="alert.item.status == 200">Close</button>
+                <button type="button" class="btn btn-danger" data-bs-dismiss="modal" ng-if="alert.item.status > 200">Close</button>
+            </div>
+        </div>
+    </div>
+</div>

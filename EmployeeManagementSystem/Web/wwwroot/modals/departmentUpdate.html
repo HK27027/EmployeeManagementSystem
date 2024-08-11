@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <!--güncelleme Modalı -->
+    <div class="modal fade" id="exampleModalupdateDepartment" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel">Departman Düzenle</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <form id="modalForm">
+                        <div ng-repeat="d in departments.data">
+
+                            <div class="form-group">
+                                <label for="name">İsim</label>
+                                <input type="text" ng-model="d.departmentName" class="form-control" id="name" name="name" placeholder="İsim Giriniz">
+                            </div>
+                 
+                        </div>
+
+
+
+                    </form>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Kapat</button>
+                    <button type="button" class="btn btn-primary" ng-click="departments.update();">Güncelle</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+</body>
+</html>

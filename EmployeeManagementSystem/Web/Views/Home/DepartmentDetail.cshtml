@@ -1,0 +1,61 @@
+﻿
+@{
+    ViewData["Title"] = "DepartmentDetail";
+}
+
+<div ng-include="'/modals/userAdd.html'"></div>
+<div ng-include="'/modals/userUpdate.html'"></div>
+<div ng-include="'/modals/departmentAdd.html'"></div>
+<div ng-include="'/modals/departmentUpdate.html'"></div>
+<div ng-include="'/modals/alertModal.html'"></div>
+<div ng-include="'/modals/alertModal.html'"></div>
+<div class="container-fluid" ng-init="account.loginControl(); departments.departmentDetail();departments.multipleGet();">
+    <div class="card" ng-if="departments.detail.length > 0">
+        <div class="card-header bg-primary text-white d-flex justify-content-between align-items-center">
+            <h3 class="mb-0">Departman Detayı</h3>
+            <button class="btn btn-light" ng-click="
+employess.form.departmentId=departments.detail[0].departmentID;
+employess.form.departmentName=departments.detail[0].departmentName;
+employess.add();">
+                <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-person-fill-add" viewBox="0 0 16 16">
+                    <path d="M12.5 16a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7m.5-5v1h1a.5.5 0 0 1 0 1h-1v1a.5.5 0 0 1-1 0v-1h-1a.5.5 0 0 1 0-1h1v-1a.5.5 0 0 1 1 0m-2-6a3 3 0 1 1-6 0 3 3 0 0 1 6 0" />
+                    <path d="M2 13c0 1 1 1 1 1h5.256A4.5 4.5 0 0 1 8 12.5a4.5 4.5 0 0 1 1.544-3.393Q8.844 9.002 8 9c-5 0-6 3-6 4" />
+                </svg>
+                Çalışan Ekle
+            </button>
+        </div>
+        <div class="card-body">
+            <h4 class="card-title">{{departments.detail[0].departmentName}}</h4>
+            <p><strong>Oluşturulma Tarihi:</strong> {{departments.detail[0].createdTime | date:'dd.MM.yyyy HH:mm'}}</p>
+            <p><strong>Çalışan sayısı:</strong> {{departments.detail[0].employees.length}}</p>
+
+            <h5 class="mt-4">Çalışanlar</h5>
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>İsim</th>
+                        <th>Pozisyon</th>
+                        <th>E-Mail</th>
+                        <th>Kayıt tarihi</th>
+                        <th>Düzenle</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr ng-repeat="employee in departments.detail[0].employees">
+                        <td>{{employee.employeeID}}</td>
+                        <td>{{employee.name}}</td>
+                        <td>{{employee.position}}</td>
+                        <td>{{employee.email}}</td>
+                        <td>{{employee.createdTime | date:'dd.MM.yyyy HH:mm'}}</td>
+                        <td>
+                            <button ng-click="employess.singleGet(employee.employeeID);" class="btn btn-primary btn-sm me-2">Düzenle</button>
+                            <button ng-click="employess.delete(employee.employeeID);" class="btn btn-danger btn-sm">Sil</button>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+

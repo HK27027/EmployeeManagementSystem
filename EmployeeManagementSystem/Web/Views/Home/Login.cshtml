@@ -1,0 +1,22 @@
+﻿@{
+    ViewData["Title"] = "Login";
+}
+<div ng-include="'/modals/alertModal.html'"></div>
+<div class="container " >
+ 
+    <div class="form-wrapper">
+        <div class="form-container">
+            <p class="title">Giriş yap</p>
+            <form class="form">
+                <input ng-model="account.form.email" type="email" class="input" placeholder="Email">
+                <input ng-model="account.form.password" type="password" class="input" placeholder="Şifre">
+                <button ng-click="account.login();" class="form-btn">Giriş yap</button>
+            </form>
+            <p class="sign-up-label">
+                Hesabın yokmu?<span class="sign-up-link"> <a href="/Register">Kayıt ol</a> </span>
+            </p>
+        
+        </div>
+    </div>
+</div>
+

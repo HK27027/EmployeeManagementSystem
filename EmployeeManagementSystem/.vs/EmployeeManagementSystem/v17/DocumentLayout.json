@@ -1,0 +1,370 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\H\u00FCseyin\\source\\repos\\EmployeeManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5309E923-FFBC-41B8-8B15-95064301881F}|Web\\Web.csproj|c:\\users\\h\u00FCseyin\\source\\repos\\employeemanagementsystem\\web\\wwwroot\\js\\angular.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5309E923-FFBC-41B8-8B15-95064301881F}|Web\\Web.csproj|solutionrelative:web\\wwwroot\\js\\angular.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5309E923-FFBC-41B8-8B15-95064301881F}|Web\\Web.csproj|c:\\users\\h\u00FCseyin\\source\\repos\\employeemanagementsystem\\web\\views\\home\\departmentdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5309E923-FFBC-41B8-8B15-95064301881F}|Web\\Web.csproj|solutionrelative:web\\views\\home\\departmentdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D46827-3741-43CE-9C78-07AC05DD606D}|Api\\Api.csproj|c:\\users\\h\u00FCseyin\\source\\repos\\employeemanagementsystem\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D46827-3741-43CE-9C78-07AC05DD606D}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D46827-3741-43CE-9C78-07AC05DD606D}|Api\\Api.csproj|c:\\users\\h\u00FCseyin\\source\\repos\\employeemanagementsystem\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{71D46827-3741-43CE-9C78-07AC05DD606D}|Api\\Api.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D46827-3741-43CE-9C78-07AC05DD606D}|Api\\Api.csproj|c:\\users\\h\u00FCseyin\\source\\repos\\employeemanagementsystem\\api\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D46827-3741-43CE-9C78-07AC05DD606D}|Api\\Api.csproj|solutionrelative:api\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5309E923-FFBC-41B8-8B15-95064301881F}|Web\\Web.csproj|c:\\users\\h\u00FCseyin\\source\\repos\\employeemanagementsystem\\web\\views\\home\\employeedetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5309E923-FFBC-41B8-8B15-95064301881F}|Web\\Web.csproj|solutionrelative:web\\views\\home\\employeedetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D46827-3741-43CE-9C78-07AC05DD606D}|Api\\Api.csproj|c:\\users\\h\u00FCseyin\\source\\repos\\employeemanagementsystem\\api\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D46827-3741-43CE-9C78-07AC05DD606D}|Api\\Api.csproj|solutionrelative:api\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5309E923-FFBC-41B8-8B15-95064301881F}|Web\\Web.csproj|c:\\users\\h\u00FCseyin\\source\\repos\\employeemanagementsystem\\web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5309E923-FFBC-41B8-8B15-95064301881F}|Web\\Web.csproj|solutionrelative:web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5309E923-FFBC-41B8-8B15-95064301881F}|Web\\Web.csproj|c:\\users\\h\u00FCseyin\\source\\repos\\employeemanagementsystem\\web\\wwwroot\\modals\\userupdate.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5309E923-FFBC-41B8-8B15-95064301881F}|Web\\Web.csproj|solutionrelative:web\\wwwroot\\modals\\userupdate.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5309E923-FFBC-41B8-8B15-95064301881F}|Web\\Web.csproj|c:\\users\\h\u00FCseyin\\source\\repos\\employeemanagementsystem\\web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5309E923-FFBC-41B8-8B15-95064301881F}|Web\\Web.csproj|solutionrelative:web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5309E923-FFBC-41B8-8B15-95064301881F}|Web\\Web.csproj|c:\\users\\h\u00FCseyin\\source\\repos\\employeemanagementsystem\\web\\wwwroot\\modals\\useradd.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5309E923-FFBC-41B8-8B15-95064301881F}|Web\\Web.csproj|solutionrelative:web\\wwwroot\\modals\\useradd.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D46827-3741-43CE-9C78-07AC05DD606D}|Api\\Api.csproj|c:\\users\\h\u00FCseyin\\source\\repos\\employeemanagementsystem\\api\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D46827-3741-43CE-9C78-07AC05DD606D}|Api\\Api.csproj|solutionrelative:api\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D46827-3741-43CE-9C78-07AC05DD606D}|Api\\Api.csproj|c:\\users\\h\u00FCseyin\\source\\repos\\employeemanagementsystem\\api\\datamodel\\mdepartments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D46827-3741-43CE-9C78-07AC05DD606D}|Api\\Api.csproj|solutionrelative:api\\datamodel\\mdepartments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D46827-3741-43CE-9C78-07AC05DD606D}|Api\\Api.csproj|c:\\users\\h\u00FCseyin\\source\\repos\\employeemanagementsystem\\api\\datamodel\\memployees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D46827-3741-43CE-9C78-07AC05DD606D}|Api\\Api.csproj|solutionrelative:api\\datamodel\\memployees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D46827-3741-43CE-9C78-07AC05DD606D}|Api\\Api.csproj|c:\\users\\h\u00FCseyin\\source\\repos\\employeemanagementsystem\\api\\datamodel\\methodresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D46827-3741-43CE-9C78-07AC05DD606D}|Api\\Api.csproj|solutionrelative:api\\datamodel\\methodresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D46827-3741-43CE-9C78-07AC05DD606D}|Api\\Api.csproj|c:\\users\\h\u00FCseyin\\source\\repos\\employeemanagementsystem\\api\\datamodel\\maccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D46827-3741-43CE-9C78-07AC05DD606D}|Api\\Api.csproj|solutionrelative:api\\datamodel\\maccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5309E923-FFBC-41B8-8B15-95064301881F}|Web\\Web.csproj|c:\\users\\h\u00FCseyin\\source\\repos\\employeemanagementsystem\\web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5309E923-FFBC-41B8-8B15-95064301881F}|Web\\Web.csproj|solutionrelative:web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5309E923-FFBC-41B8-8B15-95064301881F}|Web\\Web.csproj|c:\\users\\h\u00FCseyin\\source\\repos\\employeemanagementsystem\\web\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5309E923-FFBC-41B8-8B15-95064301881F}|Web\\Web.csproj|solutionrelative:web\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5309E923-FFBC-41B8-8B15-95064301881F}|Web\\Web.csproj|c:\\users\\h\u00FCseyin\\source\\repos\\employeemanagementsystem\\web\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5309E923-FFBC-41B8-8B15-95064301881F}|Web\\Web.csproj|solutionrelative:web\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5309E923-FFBC-41B8-8B15-95064301881F}|Web\\Web.csproj|c:\\users\\h\u00FCseyin\\source\\repos\\employeemanagementsystem\\web\\wwwroot\\modals\\alertmodal.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5309E923-FFBC-41B8-8B15-95064301881F}|Web\\Web.csproj|solutionrelative:web\\wwwroot\\modals\\alertmodal.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5309E923-FFBC-41B8-8B15-95064301881F}|Web\\Web.csproj|c:\\users\\h\u00FCseyin\\source\\repos\\employeemanagementsystem\\web\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5309E923-FFBC-41B8-8B15-95064301881F}|Web\\Web.csproj|solutionrelative:web\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 232,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "angular.js",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin\\source\\repos\\EmployeeManagementSystem\\Web\\wwwroot\\js\\angular.js",
+              "RelativeDocumentMoniker": "Web\\wwwroot\\js\\angular.js",
+              "ToolTip": "C:\\Users\\H\u00FCseyin\\source\\repos\\EmployeeManagementSystem\\Web\\wwwroot\\js\\angular.js",
+              "RelativeToolTip": "Web\\wwwroot\\js\\angular.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-09T23:06:39.444Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin\\source\\repos\\EmployeeManagementSystem\\Api\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\AccountsController.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin\\source\\repos\\EmployeeManagementSystem\\Api\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "Api\\Controllers\\AccountsController.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAowK0AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T22:25:54.121Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin\\source\\repos\\EmployeeManagementSystem\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "Api\\Program.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin\\source\\repos\\EmployeeManagementSystem\\Api\\Program.cs",
+              "RelativeToolTip": "Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T19:58:52.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin\\source\\repos\\EmployeeManagementSystem\\Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\H\u00FCseyin\\source\\repos\\EmployeeManagementSystem\\Api\\appsettings.json",
+              "RelativeToolTip": "Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-11T19:54:49.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "userAdd.html",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin\\source\\repos\\EmployeeManagementSystem\\Web\\wwwroot\\modals\\userAdd.html",
+              "RelativeDocumentMoniker": "Web\\wwwroot\\modals\\userAdd.html",
+              "ToolTip": "C:\\Users\\H\u00FCseyin\\source\\repos\\EmployeeManagementSystem\\Web\\wwwroot\\modals\\userAdd.html",
+              "RelativeToolTip": "Web\\wwwroot\\modals\\userAdd.html",
+              "ViewState": "AQIAABUAAAAAAAAAAAAQwCwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-10T20:46:05.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin\\source\\repos\\EmployeeManagementSystem\\Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin\\source\\repos\\EmployeeManagementSystem\\Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAkwGEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-10T11:15:46.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin\\source\\repos\\EmployeeManagementSystem\\Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin\\source\\repos\\EmployeeManagementSystem\\Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Web\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wCUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T14:22:09.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MethodResponse.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin\\source\\repos\\EmployeeManagementSystem\\Api\\DataModel\\MethodResponse.cs",
+              "RelativeDocumentMoniker": "Api\\DataModel\\MethodResponse.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin\\source\\repos\\EmployeeManagementSystem\\Api\\DataModel\\MethodResponse.cs",
+              "RelativeToolTip": "Api\\DataModel\\MethodResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T13:37:19.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MAccount.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin\\source\\repos\\EmployeeManagementSystem\\Api\\DataModel\\MAccount.cs",
+              "RelativeDocumentMoniker": "Api\\DataModel\\MAccount.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin\\source\\repos\\EmployeeManagementSystem\\Api\\DataModel\\MAccount.cs",
+              "RelativeToolTip": "Api\\DataModel\\MAccount.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T13:37:10.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin\\source\\repos\\EmployeeManagementSystem\\Web\\Views\\Home\\Register.cshtml",
+              "RelativeDocumentMoniker": "Web\\Views\\Home\\Register.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin\\source\\repos\\EmployeeManagementSystem\\Web\\Views\\Home\\Register.cshtml",
+              "RelativeToolTip": "Web\\Views\\Home\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-11T13:12:59.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin\\source\\repos\\EmployeeManagementSystem\\Web\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "Web\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin\\source\\repos\\EmployeeManagementSystem\\Web\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "Web\\Views\\Home\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-11T13:12:30.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin\\source\\repos\\EmployeeManagementSystem\\Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin\\source\\repos\\EmployeeManagementSystem\\Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-11T13:00:50.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "alertModal.html",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin\\source\\repos\\EmployeeManagementSystem\\Web\\wwwroot\\modals\\alertModal.html",
+              "RelativeDocumentMoniker": "Web\\wwwroot\\modals\\alertModal.html",
+              "ToolTip": "C:\\Users\\H\u00FCseyin\\source\\repos\\EmployeeManagementSystem\\Web\\wwwroot\\modals\\alertModal.html",
+              "RelativeToolTip": "Web\\wwwroot\\modals\\alertModal.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-11T11:10:27.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MEmployees.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin\\source\\repos\\EmployeeManagementSystem\\Api\\DataModel\\MEmployees.cs",
+              "RelativeDocumentMoniker": "Api\\DataModel\\MEmployees.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin\\source\\repos\\EmployeeManagementSystem\\Api\\DataModel\\MEmployees.cs",
+              "RelativeToolTip": "Api\\DataModel\\MEmployees.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAIwDAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T22:16:59.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin\\source\\repos\\EmployeeManagementSystem\\Api\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin\\source\\repos\\EmployeeManagementSystem\\Api\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Api\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAowFQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T20:47:22.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin\\source\\repos\\EmployeeManagementSystem\\Web\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Web\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\H\u00FCseyin\\source\\repos\\EmployeeManagementSystem\\Web\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Web\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAP4AAAAAAAAAAAAAAA0BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-10T20:22:50.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MDepartments.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin\\source\\repos\\EmployeeManagementSystem\\Api\\DataModel\\MDepartments.cs",
+              "RelativeDocumentMoniker": "Api\\DataModel\\MDepartments.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin\\source\\repos\\EmployeeManagementSystem\\Api\\DataModel\\MDepartments.cs",
+              "RelativeToolTip": "Api\\DataModel\\MDepartments.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T20:10:10.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin\\source\\repos\\EmployeeManagementSystem\\Api\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin\\source\\repos\\EmployeeManagementSystem\\Api\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "Api\\Controllers\\DepartmentsController.cs",
+              "ViewState": "AQIAAIsAAAAAAAAAAAAwwKAAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T20:03:28.666Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 214,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeDetail.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin\\source\\repos\\EmployeeManagementSystem\\Web\\Views\\Home\\EmployeeDetail.cshtml",
+              "RelativeDocumentMoniker": "Web\\Views\\Home\\EmployeeDetail.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin\\source\\repos\\EmployeeManagementSystem\\Web\\Views\\Home\\EmployeeDetail.cshtml",
+              "RelativeToolTip": "Web\\Views\\Home\\EmployeeDetail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-11T16:34:03.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepartmentDetail.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin\\source\\repos\\EmployeeManagementSystem\\Web\\Views\\Home\\DepartmentDetail.cshtml",
+              "RelativeDocumentMoniker": "Web\\Views\\Home\\DepartmentDetail.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin\\source\\repos\\EmployeeManagementSystem\\Web\\Views\\Home\\DepartmentDetail.cshtml",
+              "RelativeToolTip": "Web\\Views\\Home\\DepartmentDetail.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAuwAkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-11T14:10:39.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "userUpdate.html",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin\\source\\repos\\EmployeeManagementSystem\\Web\\wwwroot\\modals\\userUpdate.html",
+              "RelativeDocumentMoniker": "Web\\wwwroot\\modals\\userUpdate.html",
+              "ToolTip": "C:\\Users\\H\u00FCseyin\\source\\repos\\EmployeeManagementSystem\\Web\\wwwroot\\modals\\userUpdate.html",
+              "RelativeToolTip": "Web\\wwwroot\\modals\\userUpdate.html",
+              "ViewState": "AQIAACAAAAAAAAAAAAAiwDUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-10T21:42:23.24Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

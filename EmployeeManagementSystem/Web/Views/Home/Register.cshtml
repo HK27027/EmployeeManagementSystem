@@ -1,0 +1,26 @@
+﻿
+@{
+    ViewData["Title"] = "Register";
+}
+<div ng-include="'/modals/alertModal.html'"></div>
+<div class="container " >
+
+    <div class="form-wrapper">
+        <div class="form-container">
+            <p class="title">Hesap oluştur</p>
+            <form class="form" >
+                <input ng-model="account.form.name" title="hesap ismini girebilirsiniz" type="text" class="input" placeholder=" Hesap ismi">
+                <input ng-model="account.form.email" type="email" class="input" placeholder="Email">
+                <input ng-model="account.form.password" type="password" class="input" placeholder="Şifre">
+                <button class="form-btn" ng-click="account.save();">Hesap oluştur</button>
+            </form>
+            <p class="sign-up-label">
+                Hesabın varmı?<span class="sign-up-link"> <a href="/Login">Giriş yap</a> </span>
+            </p>
+
+        </div>
+    </div>
+   
+</div>
+
+

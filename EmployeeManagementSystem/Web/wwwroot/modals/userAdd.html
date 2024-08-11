@@ -1,0 +1,61 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+
+    <div class="modal fade" id="exampleModaluserAdd" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel">Çalışan ekle</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <form id="modalForm">
+                        <div class="form-group">
+                            <label for="name">İsim</label>
+                            <input type="text" ng-model="employess.form.name" class="form-control" id="name" name="name" placeholder="İsim Giriniz">
+                        </div>
+                        <div class="form-group">
+                            <label for="email">E-Posta adresi</label>
+                            <input type="email" ng-model="employess.form.email" class="form-control" id="email" name="email" placeholder="E-Posta adresi giriniz">
+                        </div>
+                        <div class="form-group">
+                            <label for="email">Pozisyon</label>
+                            <input type="text" ng-model="employess.form.position" class="form-control" id="email" name="email" placeholder="Çalışan Pozisyonu giriniz">
+                        </div>
+                        <div class="form-group">
+                            <label for="position">Department</label>
+                            <div class="dropdown">
+                                <button class="btn dropdown-toggle text-secondary btn-sm" type="button" id="dropdownMenuButton" data-bs-toggle="dropdown" aria-expanded="false">
+                                    <span ng-if="employess.form.departmentName==''">Departman seçiniz</span>
+                                    <span ng-if="employess.form.departmentName!=''">{{employess.form.departmentName}}</span>
+                                </button>
+                                <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                                    <li><a class="dropdown-item" ng-click="departments.add();">+ Departman ekle</a></li>
+                                    <li ng-repeat="dept in departments.list">
+                                        <a class="dropdown-item" ng-click="employess.form.departmentId = dept.departmentID; employess.form.departmentName=dept.departmentName;">
+                                            {{dept.departmentName}}
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+
+
+
+                    </form>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Kapat</button>
+                    <button type="button"  ng-disabled="employess.form.departmentId==''" class="btn btn-primary" ng-click="employess.save();">kaydet</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>
